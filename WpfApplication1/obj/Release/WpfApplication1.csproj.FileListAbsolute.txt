@@ -1,0 +1,14 @@
+D:\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+D:\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+D:\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+D:\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+D:\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+D:\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+D:\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+D:\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+D:\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+D:\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+D:\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+D:\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+D:\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
